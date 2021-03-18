@@ -1,0 +1,5 @@
+C:\Users\Rosyid\Taksi\obj\Debug\net5.0\Taksi.csprojAssemblyReference.cache
+C:\Users\Rosyid\Taksi\obj\Debug\net5.0\Taksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosyid\Taksi\obj\Debug\net5.0\Taksi.AssemblyInfoInputs.cache
+C:\Users\Rosyid\Taksi\obj\Debug\net5.0\Taksi.AssemblyInfo.cs
+C:\Users\Rosyid\Taksi\obj\Debug\net5.0\Taksi.csproj.CoreCompileInputs.cache
